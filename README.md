@@ -1,12 +1,39 @@
-## Hello, I'm Ethan 👋
+# Ethan Fregene | Software Engineer
 
-Computer Science sophemore at UC Irvine 🐜<br/>
-I'm currently working as an AI/ML Fellow at Break Through Tech and Full Stack web projects🤖<br/>
+Aspiring Software Engineer with hands-on experience in full-stack development and building ML Models.
+I focus on **continuous learning, building scalable solutions, and clean code.**
 
-I have a passion for building and writing things of which you can see below ⬇️<br/>
+- 🎓 B.S. Computer Science at University of California, Irvine
+- 💻 Interests: e.g. Machine Learning, Full-Stack Development
+- 🌱 Currently learning: e.g., Agentic AI/ML Frameworks, Node.js, Open Source Dev
+- 📫 Reach me: [linkedin.com/in/ethan-fregene/](https://www.linkedin.com/in/ethan-fregene/)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-fregene) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ethanfregene475@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Technical Skills
+- **Languages:** Python, C/C++, JavaScript, SQL, Assembly (Mips)  
+- **Frameworks & Tools:** React, Node.js, TensorFlow, Git  
+- **Databases:** PostgreSQL 
+- **Other:** REST APIs, Test-Driven Development
+
+---
+
+### 📂 Featured Projects
+
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Census Income Classifier** ([GitHub Repo URL](https://github.com/e-fregene/ML-Model-Capstone/blob/main/Capstone.ipynb)) | Trained and compared two machine learning models that predict whether a person earns over $50K from Census data, reaching 84% accuracy. | Python, Scikit-learn, TensorFlow/Keras |
+| **Wholesome Health- Care Management Platform** ([GitHub Repo URL](https://wholesomehealth.care/)) | Developed and deployed a full-stack telehealth platform where patients book and manage medical appointments online | TypeScript, React, PostgreSQL |
+
+---
+
+### 📊 GitHub Highlights
+- Contributions to **repositories** across open source / academic / personal projects  
+- Experience with **version control**, **code reviews**, and **collaborative development**  
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/ethan-fregene/](https://www.linkedin.com/in/ethan-fregene/)
+- **Email:** ethanfregene475@gmail.com 
