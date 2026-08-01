@@ -24,7 +24,7 @@ I focus on **continuous learning, building scalable solutions, and clean code.**
 | Project | Description | Tech |
 |--------|-------------|------|
 | **Census Income Classifier** ([GitHub Repo URL](https://github.com/e-fregene/ML-Model-Capstone/blob/main/Capstone.ipynb)) | Trained and compared two machine learning models that predict whether a person earns over $50K from Census data, reaching 84% accuracy. | Python, Scikit-learn, TensorFlow/Keras |
-| **Wholesome Health- Care Management Platform** ([GitHub Repo URL](https://wholesomehealth.care/)) | Developed and deployed a full-stack telehealth platform where patients book and manage medical appointments online | TypeScript, React, PostgreSQL |
+| **Wholesome Health- Care Management Platform** ([GitHub Repo URL](https://wholesomehealth.care/)) | Developed and deployed a full-stack telehealth platform where patients book and manage medical appointments online. Serving 30+ people monthly. | TypeScript, React, PostgreSQL |
 
 ---
 
