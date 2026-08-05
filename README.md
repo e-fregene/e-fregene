@@ -4,8 +4,8 @@ Aspiring Software Engineer with hands-on experience in full-stack development an
 I focus on **continuous learning, building scalable solutions, and clean code.**
 
 - 🎓 B.S. Computer Science at University of California, Irvine
-- 💻 Interests: e.g. Machine Learning, Full-Stack Development
-- 🌱 Currently learning: e.g., Agentic AI/ML Frameworks, Node.js, Open Source Dev
+- 💻 Interests: Machine Learning, Full-Stack Development
+- 🌱 Currently learning: Agentic AI/ML Frameworks, Node.js, Open Source Dev
 - 📫 Reach me: [linkedin.com/in/ethan-fregene/](https://www.linkedin.com/in/ethan-fregene/)
 
 ---
